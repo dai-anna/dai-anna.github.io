@@ -24,9 +24,10 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jemoji"
 end
-bundle
 
 gem "minimal-mistakes-jekyll"
+
+bundle 
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
