@@ -8,6 +8,5 @@ header:
   overlay_color: #FBF9F6
   overlay_filter: 0.3
 caption: "Photo by: [Duke University](https://www.facebook.com/DukeUniv/photos/pcb.10158247929666475/10158247928966475/)"
-permalink: https://dai-anna.github.io
 ---
 
