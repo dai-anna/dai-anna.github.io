@@ -1,7 +1,8 @@
 ---
 type: pages
 layout: splash
-title: Hi, my name is Anna Dai
+title: Home
+excerpt: Hi, my name is Anna Dai
 header:
   overlay_image: /assets/images/duke_fall.jpg
   overlay_color: #FBF9F6

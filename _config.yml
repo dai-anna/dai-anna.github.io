@@ -95,6 +95,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/annauppp"
 
+atom_feed:
+  hide: true
+  
 # Front Matter Defaults
 defaults:
   # _posts
@@ -108,6 +111,7 @@ defaults:
       comments: # true
       share: false
       related: false
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
