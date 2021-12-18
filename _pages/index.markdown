@@ -1,9 +1,8 @@
 ---
 type: pages
 layout: splash
-title: Home
 permalink: /
-excerpt: Hi, my name is Anna Dai
+excerpt: 'Hi, my name is **Anna Dai** /n I work hard to enjoy the finer things in life with dignity'
 header:
   overlay_image: /assets/images/duke_fall.jpg
   overlay_color: #FBF9F6
