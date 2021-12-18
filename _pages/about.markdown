@@ -12,11 +12,3 @@ permalink: /about/
 
 💼 I worked in financial services tax compliance and consulting at EY for four years and was inspired by the lack of efficient processes to learn to build automatic, scalable, and reviewable solutions. The move was now or never, so here I am.
 
-
-
-excerpt: Hi, my name is Anna Dai
-header:
-  overlay_image: /assets/images/duke_fall.jpg
-  overlay_color: #FBF9F6
-  overlay_filter: 0.3
-caption: "Photo by: [Duke University](https://www.facebook.com/DukeUniv/photos/pcb.10158247929666475/10158247928966475/)"
