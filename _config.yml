@@ -56,7 +56,6 @@ minimal_mistakes_skin: "dirt"
 # logo: "/assets/images/88x88.png"
 
 include: ["_pages"]
-exclude: ["_ss"]
 
 
 markdown: kramdown
@@ -106,7 +105,7 @@ atom_feed:
   
 # Front Matter Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -117,7 +116,17 @@ defaults:
       comments: # true
       share: false
       related: false
-
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

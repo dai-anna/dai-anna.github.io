@@ -1,8 +1,5 @@
 ---
-type: pages
-layout: collection
+layout: posts
 title: Blog
 permalink: /blog/
 ---
-
-
