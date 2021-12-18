@@ -25,8 +25,6 @@ group :jekyll_plugins do
   gem "jemoji"
 end
 
-bundle 
-
 gem "minimal-mistakes-jekyll"
 
 

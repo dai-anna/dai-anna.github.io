@@ -26,9 +26,9 @@ domain: anna-dai.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dai-anna.github.io # the base hostname & protocol for your site, e.g. http://example.com
 repository: dai-anna/dai-anna.github.io
-twitter_username: annauppp
-github_username:  dai-anna
-linkedin_username: dai-anna
+# twitter_username: annauppp
+# github_username:  dai-anna
+# linkedin_username: dai-anna
 
 # Build settings
 # theme: minimal-mistakes-jekyll
