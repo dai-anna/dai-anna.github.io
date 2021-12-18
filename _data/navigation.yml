@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: "https://dai-anna.github.io" 
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Blog"
+    url: /blog/
