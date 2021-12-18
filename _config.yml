@@ -31,7 +31,8 @@ github_username:  dai-anna
 linkedin_username: dai-anna
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
