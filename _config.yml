@@ -69,7 +69,7 @@ markdown: kramdown
 author:
   name: "Anna Dai"
   avatar: "/assets/images/AnnaDai_Headshot.jpg"
-  bio: "Master's student in Data Science" # Note: Markdown is allowed
+  bio: "Master's student in Data Science and AWS Certified Solutions Architect" # Note: Markdown is allowed
   location: "Duke University"
   links:
     - label: "GitHub"
