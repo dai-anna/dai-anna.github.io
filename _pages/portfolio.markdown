@@ -13,12 +13,11 @@ classes: wide
 - Collected data on seven different topics on twitter, leveraging Twint and Twitter API
 - Built an LDA generative model as well as a discriminative Neural Network to benchmark their performance in topic classification
 
-**Semi-supervised/Representation Learning Benchmarking**, WIP Team Project
-- Implemented SimCLR and RotNet framework with ResNet20 to benchmark model performance on limited labeled CIFAR10 data
-- Intend to also benchmark performance against adversarial attacks
+**Semi-supervised/Representation Learning Benchmarking**, Team Project ([GitHub](https://github.com/dai-anna/SemiSupervisedBenchmarking) | [Research Report](https://github.com/dai-anna/SemiSupervisedBenchmarking/blob/main/report/ECE661_Final_Project.pdf) | [Poster](https://github.com/dai-anna/SemiSupervisedBenchmarking/blob/main/poster/ECE661%20Poster_RepLearning.pdf))
+- Implemented SimCLR and RotNet framework with ResNet20 backbone encoder to benchmark model performance on limited labeled CIFAR10 data
 
-**Deep Reinforcement Learning vs Deep Learning Recommendation Systems**, WIP Team Project
-- Intend to benchmark performance of deep reinforcement learning recommender against deep learning recommender on two datasets
+**Deep Reinforcement Learning vs Deep Learning Recommendation Systems**, Team Project ([GitHub](https://github.com/dai-anna/DRLvsDLrecommenders))
+- Implemented and benchmarked performance of deep reinforcement learning recommenders (SNQN and SA2C) against deep learning recommender (Bayesian Personalized Ranking (BPR)) on Diginetica and Retail Rocket datasets
 
 **Hybrid Recommendation System** ([GitHub](https://github.com/dai-anna/RenttheRunwayRecommendations) | [Research Report](https://github.com/dai-anna/RenttheRunwayRecommendations/blob/main/report/RTRRecommendationsFinalReport.pdf) | [Presentation](https://youtu.be/PzAVR38oM6Y))
 - Developed hybrid recommendation system for fashion rental industry by first segmenting customers using unsupervised clustering methods then recommending items within each segment
