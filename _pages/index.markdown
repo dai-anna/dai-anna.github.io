@@ -11,5 +11,5 @@ header:
 caption: "Photo by: [Duke University](https://www.facebook.com/DukeUniv/photos/pcb.10158247929666475/10158247928966475/)"
 ---
 
-I am passionate about meticulously engineering reproducible, interpretable and ethically-driven solutions. 
+I am passionate and meticulous about researching and implementing ethically-driven solutions. 
 
