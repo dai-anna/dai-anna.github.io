@@ -12,7 +12,7 @@ classes: wide
 - Worked with Duke Anesthesiology to tackle the issue of drug diversion by anesthesiologists
 - Developed a complete modeling approach to detect potential diversion behavior based off surgical data
 
-**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**, Paper in Review
+**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**, ([Paper Submission]())
 - Assisted with research on robustness of vertical federated learning convolutional models against unexpected exit of inactive parties
 - Completed literature review on possible defenses against various adversarial attacks, implemented the defenses to benchmark results, and reviewed code for different adversarial attacks
 - Co-authored paper for submission to the International Conference on Computer Vision (ICCV) 2023
@@ -30,7 +30,7 @@ classes: wide
 **Deep Reinforcement Learning vs Deep Learning Recommendation Systems**, Team Project ([GitHub](https://github.com/dai-anna/DRLvsDLrecommenders))
 - Implemented and benchmarked performance of deep reinforcement learning recommenders (SNQN and SA2C) against deep learning recommender (Bayesian Personalized Ranking (BPR)) on Diginetica and Retail Rocket datasets
 
-**Hybrid Recommendation System** ([GitHub](https://github.com/dai-anna/RenttheRunwayRecommendations) | [Research Report](https://github.com/dai-anna/RenttheRunwayRecommendations/blob/main/report/RTRRecommendationsFinalReport.pdf) | [Presentation](https://youtu.be/PzAVR38oM6Y))
+**Hybrid Recommendation System**, Team Project ([GitHub](https://github.com/dai-anna/RenttheRunwayRecommendations) | [Research Report](https://github.com/dai-anna/RenttheRunwayRecommendations/blob/main/report/RTRRecommendationsFinalReport.pdf) | [Presentation](https://youtu.be/PzAVR38oM6Y))
 - Developed hybrid recommendation system for fashion rental industry by first segmenting customers using unsupervised clustering methods then recommending items within each segment
 - Benchmarked performance of hybrid system on the Rent the Runway dataset against making recommendations on the fullset and found improved performance in some segments
 
