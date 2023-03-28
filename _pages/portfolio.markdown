@@ -7,6 +7,17 @@ classes: wide
 ---
 #  <img width=90 align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duke_University_logo.svg/1024px-Duke_University_logo.svg.png">
 
+### Research Projects
+**Drug Diversion Intervention**, Capstone Project, Keynote Presentation
+- Worked with Duke Anesthesiology to tackle the issue of drug diversion by anesthesiologists
+- Developed a complete modeling approach to detect potential diversion behavior based off surgical data
+
+**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**, Paper in Review
+- Assisted with research on robustness of vertical federated learning convolutional models against unexpected exit of inactive parties
+- Completed literature review on possible defenses against various adversarial attacks, implemented the defenses to benchmark results, and reviewed code for different adversarial attacks
+- Co-authored paper for submission to the International Conference on Computer Vision (ICCV) 2023
+
+
 ### Machine Learning and Deep Learning
 
 **NLP Models Benchmarking**, Team Project ([GitHub](https://github.com/dai-anna/Duke-NLP-FinalProject) | [Research Report](https://github.com/dai-anna/Duke-NLP-FinalProject/blob/main/report/report_submission_flat.pdf))
