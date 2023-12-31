@@ -7,14 +7,28 @@ classes: wide
 ---
 #  <img width=90 align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duke_University_logo.svg/1024px-Duke_University_logo.svg.png">
 
-### Research Projects
+### Research Projects and Publications
 **Drug Diversion Intervention**, Master's Capstone Project - Keynote Presentation
-- Worked with Duke Anesthesiology to tackle the issue of drug diversion by anesthesiologists
+- Worked with Duke Anesthesiology to tackle the issue of drug diversion by anesthesiologists by defining the problem as a data problem that can be handled with machine learning
 - Developed a complete modeling approach to detect potential diversion behavior from surgical data
+- Specifically tested unsupervised deep learning approaches including autoencoder to detect anomalies
 
-**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**, Co-Author ([Submission for ICCV 2023]())
-- Assisted with research on robustness of vertical federated learning convolutional models against unexpected exit of inactive parties
+**MODELGUARD: Information-Theoretic Defense Against Model Extraction Attacks**, Co-Author | ([USENIX Security 2023](https://www.usenix.org/system/files/sec24summer-prepub-409-tang.pdf))
+- Proposed novel defense against adaptive model extraction attacks through prediction perturbation by leveraging information theory
+- Implemented state-of-the-art model extraction defenses and attacks including [Adaptive Misinformation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kariyappa_Defending_Against_Model_Stealing_Attacks_With_Adaptive_Misinformation_CVPR_2020_paper.pdf), which requires an outlier exposure model.
+- Ran experiments on four datasets (MNIST, CIFAR10, CIFAR100, and ImageNet) to benchmark performance of MODELGUARD against other defenses and attacks
+
+**Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties**, Co-Author ([Submission for ICLR 2024](https://arxiv.org/abs/2303.18178))
+- Assisted with research on robustness of vertical federated learning convolutional models against performance and IP leakage risks when nactive parties unexpectedly quit during deployment
 - Completed literature review on possible defenses against various adversarial attacks, implemented the defenses to benchmark results, and reviewed code for different adversarial attacks
+
+**Enhancing Job Market Adaptability with Explainable, Skill-Based Course Recommendation System**, Co-First Author (Submission for EACL NLP4HR Workship 2024)
+- Leveraged LLMs in NLP pipeline to extract skill and match them to a known taxonomy from job postings, course descriptions, and resumes
+- Built and compared greedy heuristics-based and reinforcement learning-based recommendation systems to recommend courses to job seekers based on their resume and job postings
+
+**JobSkape: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching**, Co-First Author (Submission for EACL NLP4HR Workship 2024)
+- Developed a framework to generate synthetic job postings using LLMs to address the lack of annotated job posting data that support skill extraction and matching tasks
+- Released a dataset of around 5,000 synthetic job postings to the public
 
 ### Machine Learning and Deep Learning
 
