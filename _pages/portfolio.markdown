@@ -22,11 +22,11 @@ classes: wide
 - Assisted with research on robustness of vertical federated learning convolutional models against performance and IP leakage risks when nactive parties unexpectedly quit during deployment
 - Completed literature review on possible defenses against various adversarial attacks, implemented the defenses to benchmark results, and reviewed code for different adversarial attacks
 
-**Enhancing Job Market Adaptability with Explainable, Skill-Based Course Recommendation System**, Co-First Author (Submission for EACL NLP4HR Workship 2024)
+**Enhancing Job Market Adaptability with Explainable, Skill-Based Course Recommendation System**, Co-First Author (Submission for EACL NLP4HR Workshop 2024)
 - Leveraged LLMs in NLP pipeline to extract skill and match them to a known taxonomy from job postings, course descriptions, and resumes
 - Built and compared greedy heuristics-based and reinforcement learning-based recommendation systems to recommend courses to job seekers based on their resume and job postings
 
-**JobSkape: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching**, Co-First Author (Submission for EACL NLP4HR Workship 2024)
+**JobSkape: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching**, Co-First Author (Submission for EACL NLP4HR Workshop 2024)
 - Developed a framework to generate synthetic job postings using LLMs to address the lack of annotated job posting data that support skill extraction and matching tasks
 - Released a dataset of around 5,000 synthetic job postings to the public
 
