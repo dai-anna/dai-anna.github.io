@@ -13,7 +13,7 @@ classes: wide
 - Developed a complete modeling approach to detect potential diversion behavior from surgical data
 - Specifically tested unsupervised deep learning approaches including autoencoder to detect anomalies
 
-**MODELGUARD: Information-Theoretic Defense Against Model Extraction Attacks**, Co-Author | ([USENIX Security 2023](https://www.usenix.org/system/files/sec24summer-prepub-409-tang.pdf))
+**MODELGUARD: Information-Theoretic Defense Against Model Extraction Attacks**, Co-Author | ([USENIX Security 2024](https://www.usenix.org/system/files/sec24summer-prepub-409-tang.pdf))
 - Proposed novel defense against adaptive model extraction attacks through prediction perturbation by leveraging information theory
 - Implemented state-of-the-art model extraction defenses and attacks including [Adaptive Misinformation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kariyappa_Defending_Against_Model_Stealing_Attacks_With_Adaptive_Misinformation_CVPR_2020_paper.pdf), which requires an outlier exposure model.
 - Ran experiments on four datasets (MNIST, CIFAR10, CIFAR100, and ImageNet) to benchmark performance of MODELGUARD against other defenses and attacks
