@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: hero-academic.png
+        filename: icon-white.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
@@ -42,47 +42,68 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: 01/2009
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Master's Valorisation Intern (Research Assistant)
+          company: EPFL NLP Lab
+          company_url: 'https://nlp.epfl.ch'
+          company_logo: org-epfl
+          location: Lausanne, Switzerland
+          date_start: '2023-09'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Research and Teaching Assistant
+          company: Duke University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-duke
+          location: Durham, United States
+          date_start: '2022-08'
+          date_end: '2023-08'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Data Science Intern
+          company: Stitch Fix
+          company_url: ''
+          company_logo: org-sf
+          location: San Francisco, United States
+          date_start: '2022-06'
+          date_end: '2022-08'
+          # description: |2-
+        - title: Senior Tax Consultant, Tax Staff
+          company: EY
+          company_url: ''
+          company_logo: org-ey
+          location: San Francisco, United States
+          date_start: '2017-01'
+          date_end: '2021-04'
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
     design:
       columns: '2'
   - block: accomplishments
@@ -167,7 +188,7 @@ sections:
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
+      # To remove the toolbar, delete the entire `filter_button` **block**.
       buttons:
         - name: All
           tag: '*'
@@ -181,18 +202,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
-    id: featured
+    id: publication
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -200,84 +213,92 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
+  - block: markdown
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      title: Gallery
+      subtitle: ''
+      # text: |-
+      #   {{< gallery album="demo" >}}
     design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      columns: '1'
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #     # Contact (add or remove contact options as necessary)
+  #     email: test@example.org
+  #     phone: 888 888 88 88
+  #     appointment_url: 'https://calendly.com'
+  #     address:
+  #       street: 450 Serra Mall
+  #       city: Stanford
+  #       region: CA
+  #       postcode: '94305'
+  #       country: United States
+  #       country_code: US
+  #     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #     office_hours:
+  #       - 'Monday 10:00 to 13:00'
+  #       - 'Wednesday 09:00 to 10:00'
+  #     # Choose a map provider in `params.yaml` to show a map from these coordinates
+  #     coordinates:
+  #       latitude: '37.4275'
+  #       longitude: '-122.1697'  
+  #     contact_links:
+  #       - icon: twitter
+  #         icon_pack: fab
+  #         name: DM Me
+  #         link: 'https://twitter.com/Twitter'
+  #       - icon: skype
+  #         icon_pack: fab
+  #         name: Skype Me
+  #         link: 'skype:echo123?call'
+  #       - icon: video
+  #         icon_pack: fas
+  #         name: Zoom Me
+  #         link: 'https://zoom.com'
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id:
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: '2'
 ---
