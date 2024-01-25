@@ -1,8 +1,16 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
+
+# Other
 .DS_Store
 _ss
 */.DS_Store
+
