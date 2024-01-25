@@ -9,7 +9,8 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: M
+  font_size: L
+  color: olive
 
 # SEO
 
@@ -34,7 +35,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
