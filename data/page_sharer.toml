@@ -39,7 +39,7 @@ url = "whatsapp://send?text={title}%20{url}"
 title = "WhatsApp"
 icon_pack = "fab"
 icon = "whatsapp"
-enable = false
+enable = true
 
 [[buttons]]
 id = "weibo"
@@ -47,7 +47,7 @@ url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
 title = "Weibo"
 icon_pack = "fab"
 icon = "weibo"
-enable = false
+enable = true
 
 [[buttons]]
 id = "reddit"
