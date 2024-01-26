@@ -33,7 +33,7 @@ sections:
       items:
         - title: Master's Valorisation Intern (Research Assistant)
           company: EPFL NLP Lab
-          company_url: 'https://nlp.epfl.ch'
+          # company_url: 'https://nlp.epfl.ch'
           company_logo: org-epfl
           location: Lausanne, Switzerland
           date_start: '2023-09-01'
@@ -169,13 +169,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` **block**.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
