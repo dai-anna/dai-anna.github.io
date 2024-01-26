@@ -1,5 +1,5 @@
 ---
-title: '**JobSkape**: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching'
+title: 'JobSkape: A Framework for Generating Synthetic Job Postings to Enhance Skill Matching'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,7 @@ doi: ''
 publication: The 1st Workshop on Natural Language Processing for Human Resources (NLP4HR), EACL 2024
 publication_short: NLP4HR (EACL 2024)
 
-abstract: Recent approaches in skill-to-surface-form matching, employing synthetic training data for classification or similarity model training, have shown promising results, eliminating the need for time-consuming and expensive annotation. However, previous datasets have limitations, such as featuring only one skill per sentence and generally comprising short sentences. This paper introduces \textsc{JobSkape}, a framework to generate synthetic data that resembles real-world job postings, specifically designed to enhance skill-to-taxonomy matching. Within this framework, we create \textsc{SkillSkape}, a comprehensive open-source synthetic dataset of job postings tailored for skill-matching tasks. We introduce several offline metrics that show our dataset is more diverse, realistic, and follows a higher quality based on similarities. Additionally, we present a multi-step pipeline utilizing large language models (LLMs), benchmarking against supervised methodologies. We outline that the performances are comparable and that each method can be used for different use cases.
+abstract: Recent approaches in skill-to-surface-form matching, employing synthetic training data for classification or similarity model training, have shown promising results, eliminating the need for time-consuming and expensive annotation. However, previous datasets have limitations, such as featuring only one skill per sentence and generally comprising short sentences. This paper introduces JobSkape, a framework to generate synthetic data that resembles real-world job postings, specifically designed to enhance skill-to-taxonomy matching. Within this framework, we create SkillSkape, a comprehensive open-source synthetic dataset of job postings tailored for skill-matching tasks. We introduce several offline metrics that show our dataset is more diverse, realistic, and follows a higher quality based on similarities. Additionally, we present a multi-step pipeline utilizing large language models (LLMs), benchmarking against supervised methodologies. We outline that the performances are comparable and that each method can be used for different use cases.
 
 # Summary. An optional shortened abstract.
 summary: Developed a framework to generate synthetic job postings using LLMs to address the lack of annotated job posting data that support skill extraction and matching tasks.

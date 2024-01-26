@@ -1,5 +1,5 @@
 ---
-title: '**MODELGUARD**: Information-Theoretic Defense Against Model Extraction Attacks'
+title: 'MODELGUARD: Information-Theoretic Defense Against Model Extraction Attacks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,7 +22,7 @@ date: '2024-08-14'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01'
+publishDate: '2024-01-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
