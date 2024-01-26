@@ -8,9 +8,9 @@ date: "2023-05-01"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: ""
-  focal_point: Smart
+# image:
+#   caption: ""
+#   focal_point: Smart
 ---
 
 The opioid crisis is rampant in the United States, yet medical professionals are often overlooked as a group that can be vulnerable to opioid addiction. Drug diversion is the act of stealing prescription drugs from a hospital or pharmacy for personal use or sale. It is estimated that 3% of healthcare workers will misuse drugs at some point in their career. Drug diversion can lead to patient harm, including death, and it can also lead to legal consequences for the healthcare worker. Drug diversion is a serious problem that needs to be addressed.
