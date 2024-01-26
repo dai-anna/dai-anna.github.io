@@ -67,7 +67,7 @@ sections:
           company_url: 'https://nlp.epfl.ch'
           company_logo: org-epfl
           location: Lausanne, Switzerland
-          date_start: '2023-09'
+          date_start: '2023-09-01'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
@@ -80,24 +80,24 @@ sections:
           company_url: ''
           company_logo: org-duke
           location: Durham, United States
-          date_start: '2022-08'
-          date_end: '2023-08'
+          date_start: '2022-08-01'
+          date_end: '2023-08-01'
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: Data Science Intern
           company: Stitch Fix
           company_url: ''
           company_logo: org-sf
           location: San Francisco, United States
-          date_start: '2022-06'
-          date_end: '2022-08'
+          date_start: '2022-06-01'
+          date_end: '2022-08-01'
           # description: |2-
         - title: Senior Tax Consultant, Tax Staff
           company: EY
           company_url: ''
           company_logo: org-ey
           location: San Francisco, United States
-          date_start: '2017-01'
-          date_end: '2021-04'
+          date_start: '2017-01-01'
+          date_end: '2021-04-01'
           # description: |2-
           #     Responsibilities include:
 
