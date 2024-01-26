@@ -32,18 +32,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Master's Valorisation Intern (Research Assistant)
-          company: EPFL NLP Lab
+          company: EPFL - NLP Lab
           # company_url: 'https://nlp.epfl.ch'
           company_logo: org-epfl
           location: Lausanne, Switzerland
           date_start: '2023-09-01'
           date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
+          description: |2-      
+              * Developed skill extraction and matching pipeline for job postings, course descriptions, and resumes in Python, leveraging in-context learning through LLMs
+              * Built custom annotation tool for skill extraction and matching for non-technical users
         - title: Research and Teaching Assistant
           company: Duke University
           company_url: ''
@@ -51,7 +48,11 @@ sections:
           location: Durham, United States
           date_start: '2022-08-01'
           date_end: '2023-08-01'
-          # description: Taught electronic engineering and researched semiconductor physics.
+          description: |2- 
+              * Research at CEI Lab: 
+                * Reviewed literature and implemented baseline models from literature on defenses against adversarial model extraction attacks and label protection in the vertical federated learning setting
+              * Teaching at MIDS and Fuqua: 
+                * Held weekly office hours and graded assignments for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
         - title: Data Science Intern
           company: Stitch Fix
           company_url: ''
@@ -59,7 +60,9 @@ sections:
           location: San Francisco, United States
           date_start: '2022-06-01'
           date_end: '2022-08-01'
-          # description: |2-
+          description: |2-
+              * Explored unknown problem space of incorporating external fashion trends into our historical-data-based forecasting models
+              * Developed steel-thread pipeline to map trending fashion items to our internal taxonomy 
         - title: Senior Tax Consultant, Tax Staff
           company: EY
           company_url: ''
@@ -67,12 +70,18 @@ sections:
           location: San Francisco, United States
           date_start: '2017-01-01'
           date_end: '2021-04-01'
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
+          description: |2-
+              * Managed teams of 5-10 members and juggled multiple projects simultaneously to conduct research tax credit studies for clients in the financial and technical sectors
+              * Wrote data validation logic to automate senior review process
+        - title: Teaching Assistant
+          company: UCLA
+          company_url: ''
+          company_logo: org-ucla
+          location: Los Angeles, United States
+          date_start: '2014-09-01'
+          date_end: '2016-06-01'
+          description: |2-
+              * Held weekly office hours and proctored/graded exams for three Taxation and Business Law classes during the school years 
     design:
       columns: '2'
   # - block: accomplishments
