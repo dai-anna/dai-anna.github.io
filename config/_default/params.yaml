@@ -41,16 +41,17 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo:
-      filename: "logo.svg"
+    logo_dark:
+      filename: "logo.png"
+      alt: "logo-black.png"
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Anna Dai'
     license:
-      enable: False
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
