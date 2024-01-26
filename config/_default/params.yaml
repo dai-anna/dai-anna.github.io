@@ -9,8 +9,8 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: 16px
-  color: teal
+  font_size: L
+  color: zinc
 
 # SEO
 
