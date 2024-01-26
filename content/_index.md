@@ -219,13 +219,14 @@ sections:
       #   {{< gallery album="demo" >}}
     design:
       columns: '1'
-  # - block: contact
-  #   id: contact
-  #   content:
-  #     title: Contact
-  #     subtitle:
-  #     text: |-
-  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Please reach out to me if you have any questions or would like to collaborate!
+
   #     # Contact (add or remove contact options as necessary)
   #     email: test@example.org
   #     phone: 888 888 88 88
@@ -242,18 +243,22 @@ sections:
   #       - 'Monday 10:00 to 13:00'
   #       - 'Wednesday 09:00 to 10:00'
   #     # Choose a map provider in `params.yaml` to show a map from these coordinates
-  #     coordinates:
-  #       latitude: '37.4275'
-  #       longitude: '-122.1697'  
-  #     contact_links:
-  #       - icon: twitter
-  #         icon_pack: fab
-  #         name: DM Me
-  #         link: 'https://twitter.com/Twitter'
-  #       - icon: skype
-  #         icon_pack: fab
-  #         name: Skype Me
-  #         link: 'skype:echo123?call'
+      coordinates:
+        latitude: '46.5191'
+        longitude: '6.5668'  
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/dai-anna/'
+        - icon: twitter
+          icon_pack: fab
+          name: Twitter
+          link: 'https://twitter.com/annauppp'
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://www.instagram.com/annauppp/'
   #       - icon: video
   #         icon_pack: fas
   #         name: Zoom Me
@@ -268,6 +273,6 @@ sections:
   #       netlify:
   #         # Enable CAPTCHA challenge to reduce spam?
   #         captcha: false
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
 ---

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anna Dai (WEBSITE UNDER CONSTRUCTION)
+title: Anna Dai
 
 # Name pronunciation (optional)
 # name_pronunciation: Dai Anna
