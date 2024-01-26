@@ -43,10 +43,6 @@ header:
     highlight_active_link: true
     logo:
       filename: "logo.svg"
-    logo_night:
-      filename: "logo.svg"
-    logo_day:
-      filename: "logo-black.png"
 
 # Site footer
 
