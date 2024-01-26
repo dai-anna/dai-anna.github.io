@@ -41,9 +41,11 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      filename: "logo.svg"
     logo_night:
-      filename: "logo.png"
-    logo_daygt:
+      filename: "logo.svg"
+    logo_day:
       filename: "logo-black.png"
 
 # Site footer
@@ -54,7 +56,7 @@ footer:
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
