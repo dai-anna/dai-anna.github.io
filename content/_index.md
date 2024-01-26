@@ -243,21 +243,21 @@ sections:
   #       - 'Monday 10:00 to 13:00'
   #       - 'Wednesday 09:00 to 10:00'
   #     # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '46.5191'
-        longitude: '6.5668'  
+      # coordinates:
+      #   latitude: '46.5191'
+      #   longitude: '6.5668'  
       contact_links:
         - icon: linkedin
           icon_pack: fab
-          name: LinkedIn
+          name: /dai-anna
           link: 'https://www.linkedin.com/in/dai-anna/'
         - icon: twitter
           icon_pack: fab
-          name: Twitter
+          name: '@annauppp'
           link: 'https://twitter.com/annauppp'
         - icon: instagram
           icon_pack: fab
-          name: Instagram
+          name: '@annauppp'
           link: 'https://www.instagram.com/annauppp/'
   #       - icon: video
   #         icon_pack: fas
