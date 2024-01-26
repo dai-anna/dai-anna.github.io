@@ -41,9 +41,9 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo_dark:
+    logo_night:
       filename: "logo.png"
-    logo_light:
+    logo_daygt:
       filename: "logo-black.png"
 
 # Site footer
