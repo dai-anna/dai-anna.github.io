@@ -1,6 +1,6 @@
 ---
 title: Drug Diversion Detection (Capstone Keynote)
-summary: As my master's capstone project, I worked with my team of 4 to develop a machine learning model to detect drug diversion by anesthesiologists from the Duke University Hospitals.
+summary: As my master's capstone project, I worked with my team of four to develop a machine learning model to detect drug diversion by anesthesiologists from the Duke University Hospitals.
 tags:
   - School
 date: "2023-04-05"
