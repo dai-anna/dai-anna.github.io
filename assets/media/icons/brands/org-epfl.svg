@@ -1,66 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   viewBox="0 0 182.4 53"
-   height="53"
-   width="182.4"
-   data-name="logo epfl 2019"
-   id="logo_epfl_2019">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>epfl-logo-new</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4">
-    <style
-       id="style2">.cls-1{fill:red;}</style>
-  </defs>
-  <title
-     id="title6">epfl-logo-new</title>
-  <path
-     id="polygon8"
-     d="M 0,21.6 H 11.43 V 9.8 H 38.34 V 0 H 0 Z"
-     style="fill:#ff0000" />
-  <path
-     id="polygon10"
-     d="M 0,53 H 38.34 V 43.2 H 11.43 V 31.4 H 0 Z"
-     style="fill:#ff0000" />
-  <path
-     id="rect12"
-     d="m 11.43,21.6 h 24.610001 v 9.800001 H 11.43 Z"
-     style="fill:#ff0000" />
-  <path
-     style="fill:#ff0000"
-     id="path14"
-     d="M86,4.87a16.12,16.12,0,0,0-5.68-3.53A23.76,23.76,0,0,0,71.82,0H48.14V53H59.57V31.4H71.82a23.76,23.76,0,0,0,8.46-1.34A16.12,16.12,0,0,0,86,26.53a13.43,13.43,0,0,0,3.19-5,17.38,17.38,0,0,0,0-11.62A13.52,13.52,0,0,0,86,4.87ZM78,18.73a5.7,5.7,0,0,1-2.26,1.8,11.33,11.33,0,0,1-3.27.85,32,32,0,0,1-3.86.22H59.57V9.8h9.05a32,32,0,0,1,3.86.22,11,11,0,0,1,3.27.86A5.59,5.59,0,0,1,78,12.67a5,5,0,0,1,.86,3A5,5,0,0,1,78,18.73Z"
-     class="cls-1" />
-  <path
-     id="polygon16"
-     d="M 155.47,43.2 V 0 h -11.43 v 53 h 38.34 v -9.8 z"
-     style="fill:#ff0000" />
-  <path
-     id="polygon18"
-     d="m 97.42,21.6 h 11.43 V 9.8 h 26.91 V 0 H 97.42 Z"
-     style="fill:#ff0000" />
-  <path
-     id="rect20"
-     d="M 97.419998,31.4 H 108.85 V 53 H 97.419998 Z"
-     style="fill:#ff0000" />
-  <path
-     id="rect22"
-     d="m 108.85,21.6 h 24.61 v 9.800001 h -24.61 z"
-     style="fill:#ff0000" />
+<svg width="210" height="210" viewBox="0 0 210 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="210" height="210" fill="#D9D9D9"/>
+<g clip-path="url(#clip0_1669_162202)">
+<path d="M14 100.6H25.43V88.8H52.34V79H14V100.6Z" fill="#FF0000"/>
+<path d="M14 132H52.34V122.2H25.43V110.4H14V132Z" fill="#FF0000"/>
+<path d="M25.4302 100.6H50.0402V110.4H25.4302V100.6Z" fill="#FF0000"/>
+<path d="M100 83.87C98.3744 82.3093 96.4394 81.1067 94.3201 80.34C91.592 79.3798 88.7114 78.9257 85.8201 79H62.1401V132H73.5701V110.4H85.8201C88.698 110.47 91.5646 110.016 94.2801 109.06C96.4137 108.298 98.3627 107.096 100 105.53C101.423 104.122 102.513 102.414 103.19 100.53C104.523 96.7714 104.523 92.6687 103.19 88.91C102.515 87.0135 101.425 85.2916 100 83.87ZM92.0001 97.73C91.4139 98.5142 90.6356 99.1341 89.7401 99.5301C88.6987 99.9752 87.5965 100.262 86.4701 100.38C85.1891 100.531 83.9001 100.605 82.6101 100.6H73.5701V88.8H82.6201C83.9101 88.7955 85.1991 88.869 86.4801 89.0201C87.6079 89.1365 88.711 89.4266 89.7501 89.88C90.6434 90.2703 91.419 90.8874 92.0001 91.67C92.5995 92.5527 92.9009 93.6039 92.8601 94.67C92.9139 95.7564 92.612 96.8307 92.0001 97.73Z" fill="#FF0000"/>
+<path d="M169.47 122.2V79H158.04V132H196.38V122.2H169.47Z" fill="#FF0000"/>
+<path d="M111.42 100.6H122.85V88.8H149.76V79H111.42V100.6Z" fill="#FF0000"/>
+<path d="M111.42 110.4H122.85V132H111.42V110.4Z" fill="#FF0000"/>
+<path d="M122.85 100.6H147.46V110.4H122.85V100.6Z" fill="#FF0000"/>
+</g>
+<defs>
+<clipPath id="clip0_1669_162202">
+<rect width="182.4" height="53" fill="white" transform="translate(14 79)"/>
+</clipPath>
+</defs>
 </svg>

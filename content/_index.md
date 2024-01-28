@@ -48,6 +48,7 @@ sections:
           date_end: '2023-08-01'
           description: |2- 
             **Research at CEI Lab**: Reviewed literature and implemented baseline models from literature on defenses against adversarial model extraction attacks and label protection in the vertical federated learning setting
+
             **Teaching at MIDS and Fuqua**: Held weekly office hours and graded assignments for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
         - title: Data Science Intern
           company: Stitch Fix
@@ -154,7 +155,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: card
+      view: compact
   - block: portfolio
     id: projects
     content:
