@@ -43,7 +43,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: ArXiv
+- name: Preprint
   url: https://arxiv.org/abs/2303.18178
 
 url_pdf: 'https://arxiv.org/pdf/2303.18178.pdf'
