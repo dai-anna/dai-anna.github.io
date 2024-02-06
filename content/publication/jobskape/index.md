@@ -42,11 +42,11 @@ tags: [NLP, Skill Matching, NLP4HR, LLMs, Synthetic Data]
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Preprint
+  url: https://arxiv.org/abs/2402.03242
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2402.03242.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
