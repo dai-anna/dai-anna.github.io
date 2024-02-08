@@ -36,7 +36,7 @@ publication_short: USENIX Security 2024
 abstract: Malicious utilization of a query interface can compromise the confidentiality of ML-as-a-Service (MLaaS) systems via model extraction attacks. Previous studies have proposed to perturb the predictions of the MLaaS system as a defense against model extraction attacks. However, existing prediction perturbation methods suffer from a poor privacy-utility balance and cannot effectively defend against the latest adaptive model extraction attacks. In this paper, we propose a novel prediction perturbation defense named MODELGUARD, which aims at defending against adaptive model extraction attacks while maintaining a high utility of the protected system. We develop a general optimization problem that considers different kinds of model extraction attacks, and MODELGUARD provides an information-theoretic defense to efficiently solve the optimization problem and achieve resistance against adaptive attacks. Experiments show that MODELGUARD attains significantly better defensive performance against adaptive attacks with less loss of utility compared to previous defenses.
 
 # Summary. An optional shortened abstract.
-summary: **TL;DR** Proposed novel defense against adaptive model extraction attacks through prediction perturbation by leveraging information theory.
+summary: Proposed novel defense against adaptive model extraction attacks through prediction perturbation by leveraging information theory.
 
 tags: [Adversarial Machine Learning, Model Extraction Attacks, Information Theory]
 
