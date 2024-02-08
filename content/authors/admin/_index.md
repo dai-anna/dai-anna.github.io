@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Anna Dai is currently a research assistant at the EPFL NLP Lab, under Professor Antoine Bosselut and Postdoctoral Researcher Syrielle Montariol's guidance. She has a unique interdisciplinary background in business economics and data science and across industry and academia. She is passionate about responisibly building ML/AI systems for make a positive social impact. Some of her research interests include natural language processing, model security and federated learning.
+Anna Dai is currently a research assistant at the [EPFL NLP Lab](https://nlp.epfl.ch/index.html), under Professor [Antoine Bosselut](https://atcbosselut.github.io) and Postdoctoral Researcher [Syrielle Montariol](https://smontariol.github.io)'s guidance. She has a unique interdisciplinary background in business economics and data science and across industry and academia. She is passionate about responisibly building ML/AI systems for make a positive social impact. Some of her research interests include natural language processing, model security and federated learning.
 {style="text-align: justify;"}
