@@ -34,7 +34,7 @@ publication_short: ""
 abstract: 'In an era where the job market is evolving rapidly, two critical needs emerge: the necessity for up-to-date course recommendation systems aligned to the job market trends, and the imperative for these systems to be unsupervised due to the time-consuming and costly nature of gathering and annotating up-to-date data. Addressing these challenges, this paper introduces a novel unsupervised sequential course recommendation system tailored to the dynamic job market. Our system leverages large language models (LLMs) for skill extraction from resumes, course content, and job descriptions to identify and recommend courses that will maximize the number of job opportunities available to candidates. We compare two methodologies for sequential recommendation: a greedy heuristic and 2 reinforcement learning (RL) approach. This work presents a significant advancement in personalized education recommendations, combining NLP and RL for practical, user-centric career development.'
 
 # Summary. An optional shortened abstract.
-summary: Leveraged LLMs in NLP pipeline to extract skill and match them to a known taxonomy from job postings, course descriptions, and resumes and compared greedy heuristics-based and reinforcement learning-based recommendation systems to recommend courses to job seekers based on their resume and job postings.
+summary: **TL;DR** Leveraged LLMs in NLP pipeline to extract skill and match them to a known taxonomy from job postings, course descriptions, and resumes and compared greedy heuristics-based and reinforcement learning-based recommendation systems to recommend courses to job seekers based on their resume and job postings.
 
 tags: [NLP, Skill Matching, NLP4HR, LLMs, Synthetic Data]
 
