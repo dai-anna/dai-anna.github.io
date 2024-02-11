@@ -31,6 +31,7 @@ bio: My research is driven by building ML/AI systems for good.
 interests:
   - Artificial Intelligence
   - Natural Language Processing
+  - Biomedical Applications
   - Interdisciplinary Research
 
 # Education to show in About widget
