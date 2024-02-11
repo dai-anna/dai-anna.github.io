@@ -1,5 +1,5 @@
 ---
-title: 'MODELGUARD: Information-Theoretic Defense Against Model Extraction Attacks'
+title: 'ModelGuard: Information-Theoretic Defense Against Model Extraction Attacks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
