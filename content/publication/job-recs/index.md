@@ -1,5 +1,5 @@
 ---
-title: Enhancing Job Market Adaptability with Explainable, Skill-Based Course Recommendation System
+title: Course Recommender Systems Need to Consider the Job Market
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,8 +28,8 @@ doi: ''
 # publication_types: ['paper-workshop']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (Perspectives Submission)"
+publication_short: "SIGIR 2024 (Perspectives Submission)"
 
 abstract: 'In an era where the job market is evolving rapidly, two critical needs emerge: the necessity for up-to-date course recommendation systems aligned to the job market trends, and the imperative for these systems to be unsupervised due to the time-consuming and costly nature of gathering and annotating up-to-date data. Addressing these challenges, this paper introduces a novel unsupervised sequential course recommendation system tailored to the dynamic job market. Our system leverages large language models (LLMs) for skill extraction from resumes, course content, and job descriptions to identify and recommend courses that will maximize the number of job opportunities available to candidates. We compare two methodologies for sequential recommendation: a greedy heuristic and 2 reinforcement learning (RL) approach. This work presents a significant advancement in personalized education recommendations, combining NLP and RL for practical, user-centric career development.'
 
@@ -39,7 +39,7 @@ summary: Leveraged LLMs in NLP pipeline to extract skill and match them to a kno
 tags: [NLP, Skill Matching, NLP4HR, LLMs, Synthetic Data]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
