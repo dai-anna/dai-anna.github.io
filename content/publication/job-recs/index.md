@@ -39,7 +39,7 @@ summary: Leveraged LLMs in NLP pipeline to extract skill and match them to a kno
 tags: [NLP, Skill Matching, NLP4HR, LLMs, Synthetic Data]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
