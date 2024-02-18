@@ -29,7 +29,7 @@ bio: My research is driven by building ML/AI systems for good.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Ethical ML/AI
   - Natural Language Processing
   - Biomedical Applications
   - Interdisciplinary Research
