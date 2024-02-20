@@ -47,7 +47,7 @@ links:
   url: https://arxiv.org/abs/2402.03242
 
 url_pdf: 'https://arxiv.org/pdf/2402.03242.pdf'
-url_code: ''
+url_code: 'https://github.com/magantoine/JobSkape'
 url_dataset: ''
 url_poster: ''
 url_project: ''
