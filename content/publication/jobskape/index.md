@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-02-20/8t03237/NLP4HR_2024_JobSkape_presentation.pdf'
 url_source: ''
 url_video: ''
 
