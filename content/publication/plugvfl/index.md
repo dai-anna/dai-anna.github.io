@@ -46,7 +46,7 @@ links:
 - name: Preprint
   url: https://arxiv.org/abs/2303.18178
 
-url_pdf: 'https://arxiv.org/pdf/2303.18178.pdf'
+# url_pdf: 'https://arxiv.org/pdf/2303.18178.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

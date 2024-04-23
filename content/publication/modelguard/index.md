@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.usenix.org/system/files/sec24summer-prepub-409-tang.pdf'
+url_pdf: 'https://www.usenix.org/conference/usenixsecurity24/presentation/tang'
 url_code: ''
 url_dataset: ''
 url_poster: ''
