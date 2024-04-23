@@ -215,7 +215,7 @@ sections:
   - block: markdown
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: '📸'
       # text: |-
       #   {{< gallery album="demo" >}}
     design:
@@ -248,11 +248,11 @@ sections:
       #   latitude: '46.5191'
       #   longitude: '6.5668'  
       contact_links:
-        - icon: linkedin
+        - icon: linkedin-in
           icon_pack: fab
           name: /dai-anna
           link: 'https://www.linkedin.com/in/dai-anna/'
-        - icon: twitter
+        - icon: x-twitter
           icon_pack: fab
           name: '@annauppp'
           link: 'https://twitter.com/annauppp'
