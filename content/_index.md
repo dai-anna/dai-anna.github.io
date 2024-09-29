@@ -217,7 +217,7 @@ sections:
       title: Gallery
       subtitle: '📸'
       text: |-
-        {{< gallery >}}
+        {{< gallery dir="/media/albums/gallery/" >}}
         
     design:
       columns: '1'
