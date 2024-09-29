@@ -217,8 +217,8 @@ sections:
       title: Gallery
       subtitle: '📸'
       text: |-
-        {{< gallery dir="/media/albums/gallery/" >}}
-        
+        ![Duke Chapel](/media/albums/gallery/duke.jpg)
+        ![Golden Gate](/media/albums/gallery/sf.jpg)
     design:
       columns: '1'
   - block: contact
