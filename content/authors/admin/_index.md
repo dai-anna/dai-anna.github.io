@@ -99,7 +99,7 @@ social:
     link: https://github.com/dai-anna
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dai-anna/
 
   # - icon: envelope
   #   icon_pack: fas
