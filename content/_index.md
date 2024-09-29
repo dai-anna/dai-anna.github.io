@@ -212,21 +212,21 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: '📸'
-      # text: |-
-      #   ![Duke Chapel](/assets/media/albums/gallery/duke.jpg)
-      #   ![Golden Gate](/assets/media/albums/gallery/sf.jpg)
-      text: |-
-        <div style="display: flex; justify-content: center; gap: 20px;">
-            <img src="assets/media/albums/gallery/duke.jpg" alt="Duke Chapel" style="width: 300px;">
-            <img src="assets/media/albums/gallery/sf.jpg" alt="Golden Gate" style="width: 300px;">
-        </div>
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: '📸'
+  #     # text: |-
+  #     #   ![Duke Chapel](/assets/media/albums/gallery/duke.jpg)
+  #     #   ![Golden Gate](/assets/media/albums/gallery/sf.jpg)
+  #     text: |-
+  #       <div style="display: flex; justify-content: center; gap: 20px;">
+  #           <img src="assets/media/albums/gallery/duke.jpg" alt="Duke Chapel" style="width: 300px;">
+  #           <img src="assets/media/albums/gallery/sf.jpg" alt="Golden Gate" style="width: 300px;">
+  #       </div>
 
-    design:
-      columns: '1'
+  #   design:
+  #     columns: '1'
   - block: contact
     id: contact
     content:
