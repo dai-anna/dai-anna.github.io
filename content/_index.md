@@ -220,7 +220,6 @@ sections:
         {{< gallery >}}
         ![Duke Chapel](/gallery/duke.jpg)
         ![Golden Gate](/gallery/sf.jpg)
-        {{< /gallery >}}
     design:
       columns: '1'
   - block: contact
