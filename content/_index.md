@@ -252,7 +252,7 @@ sections:
           icon_pack: fab
           name: /dai-anna
           link: 'https://www.linkedin.com/in/dai-anna/'
-        - icon: x-twitter
+        - icon: twitter
           icon_pack: fab
           name: '@annauppp'
           link: 'https://twitter.com/annauppp'
