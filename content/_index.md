@@ -218,8 +218,7 @@ sections:
       subtitle: '📸'
       text: |-
         {{< gallery >}}
-        ![Duke Chapel](/gallery/duke.jpg)
-        ![Golden Gate](/gallery/sf.jpg)
+        
     design:
       columns: '1'
   - block: contact
