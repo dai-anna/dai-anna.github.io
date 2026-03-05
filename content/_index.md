@@ -38,16 +38,14 @@ sections:
           location: Düsseldorf, Germany
           date_start: '2024-01-01'
           description: Built large-scale machine learning and data systems for travel pricing and search analytics, including scalable quantile estimation and production ML pipelines
-
-      - title: Research Assistant
+        - title: Research Assistant
           company: EPFL - NLP Lab
           # company_url: 'https://nlp.epfl.ch'
           company_logo: org-epfl
           location: Lausanne, Switzerland
           date_start: '2023-01-01'
           date_end: '2024-01-01'
-          description: Developed LLM-based workflows for skill extraction and matching across job postings, course catalogs, and resumes.
-        
+          description: Developed LLM-based workflows for skill extraction and matching across job postings, course catalogs, and resumes
         - title: Graduate Research and Teaching Assistant
           company: Duke University
           company_url: ''
@@ -58,7 +56,6 @@ sections:
           description: |2- 
             **Research at CEI Lab**: Implemented baseline models from literature and evaluated defenses against adversarial model extraction in vertical federated learning systems
             **Teaching at MIDS and Fuqua**: Held weekly office hours for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
-          
         - title: Data Science Intern
           company: Stitch Fix
           company_url: ''
@@ -67,7 +64,6 @@ sections:
           date_start: '2022-01-01'
           date_end: '2022-01-01'
           description: Explored integration of incorporating external fashion trends (NLP task) into our historical-data-based forecasting models
-          
         - title: Senior Tax Consultant, Tax Staff
           company: EY
           company_url: ''
@@ -75,8 +71,7 @@ sections:
           location: San Francisco, United States
           date_start: '2017-01-01'
           date_end: '2021-01-01'
-          description: Led data-driven R&D tax credit analyses using large client datasets across financial and technology sectors
-          
+          description: Led data-driven R&D tax credit analyses using large client datasets across financial and technology sectors  
         - title: Teaching Assistant
           company: UCLA
           company_url: ''
