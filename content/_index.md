@@ -55,6 +55,7 @@ sections:
           date_end: '2023-01-01'
           description: |2- 
             **Research at CEI Lab**: Implemented baseline models from literature and evaluated defenses against adversarial model extraction in vertical federated learning systems
+    
             **Teaching at MIDS and Fuqua**: Held weekly office hours for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
         - title: Data Science Intern
           company: Stitch Fix
@@ -82,6 +83,7 @@ sections:
           description: Assisted teaching in taxation and business law courses, leading office hours and grading exams and assignments
     design:
       columns: '2'
+      date_format: '2006'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
