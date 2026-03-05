@@ -17,31 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher in ML/AI
+role: Data Scientist | Machine Learning & Data Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: EPFL NLP Lab
-    url: https://nlp.epfl.ch/index.html
+  - name: trivago
+    url: https://www.trivago.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is driven by building ML/AI systems for good.
+bio: I build scalable machine learning and data systems to solve real-world decision problems.
 
 # Interests to show in About widget
 interests:
-  - Ethical ML/AI
+  - Large-scale Data Systems
   - Natural Language Processing
-  - Biomedical Applications
-  - Interdisciplinary Research
+  - Applied Machine Learning
+  - Responsible AI
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Interdisciplinary Data Science
-      institution: Duke University
+    - course: MSc in Data Science
+      institution: Duke University, USA
       year: 2023
     - course: BA in Business Economics
-      institution: University of California, Los Angeles (UCLA)
+      institution: University of California, Los Angeles (UCLA), USA
       year: 2016
 
 # Skills
@@ -126,6 +126,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Anna Dai is a Data Scientist at trivago working on large-scale machine learning and data systems for travel search and pricing analytics.Her work focuses on scalable data pipelines, applied machine learning, and improving production systems that support decision-making across millions of travel searches.
 
-Anna Dai is currently a research assistant at the [EPFL NLP Lab](https://nlp.epfl.ch/index.html), under Professor [Antoine Bosselut](https://atcbosselut.github.io) and Postdoctoral Researcher [Syrielle Montariol](https://smontariol.github.io)'s guidance. She has a unique interdisciplinary background in business economics and data science and across industry and academia. She is passionate about responisibly building ML/AI systems for make a positive social impact. Some of her research interests include natural language processing, model security and federated learning.
+Previously, she conducted research in natural language processing at the EPFL NLP Lab under Professor Antoine Bosselut, where her work explored responsible and secure machine learning systems. She holds an MSc in Data Science from Duke University. Anna is particularly interested in applied machine learning research that bridges academic ideas and real-world systems, especially in areas such as large-scale modeling, efficient data processing, and responsible AI.
+
 {style="text-align: justify;"}
+
