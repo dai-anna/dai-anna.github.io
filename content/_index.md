@@ -24,56 +24,67 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: 01/2009
+      date_format: 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Valorisation Intern (Research Assistant)
+        - title: Data Scientist
+          company: trivago
+          company_url: ''
+          company_logo: org-trivago
+          location: Düsseldorf, Germany
+          date_start: '2024-01-01'
+          description: Built large-scale machine learning and data systems for travel pricing and search analytics, including scalable quantile estimation and production ML pipelines
+
+      - title: Research Assistant
           company: EPFL - NLP Lab
           # company_url: 'https://nlp.epfl.ch'
           company_logo: org-epfl
           location: Lausanne, Switzerland
-          date_start: '2023-09-01'
-          date_end: ''
-          description: Developed skill extraction and matching pipeline for job postings, course descriptions, and resumes, leveraging in-context learning through LLMs
-        - title: Research and Teaching Assistant
+          date_start: '2023-01-01'
+          date_end: '2024-01-01'
+          description: Developed LLM-based workflows for skill extraction and matching across job postings, course catalogs, and resumes.
+        
+        - title: Graduate Research and Teaching Assistant
           company: Duke University
           company_url: ''
           company_logo: org-duke
           location: Durham, United States
-          date_start: '2022-08-01'
-          date_end: '2023-08-01'
+          date_start: '2022-01-01'
+          date_end: '2023-01-01'
           description: |2- 
-            **Research at CEI Lab**: Reviewed literature and implemented baseline models from literature on defenses against adversarial model extraction attacks and label protection in the vertical federated learning setting
-
-            **Teaching at MIDS and Fuqua**: Held weekly office hours and graded assignments for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
+            **Research at CEI Lab**: Implemented baseline models from literature and evaluated defenses against adversarial model extraction in vertical federated learning systems
+            **Teaching at MIDS and Fuqua**: Held weekly office hours for Data Engineering Systems, Data Analysis at Scale in the Cloud, and Fraud Analytics courses
+          
         - title: Data Science Intern
           company: Stitch Fix
           company_url: ''
           company_logo: org-sf
           location: San Francisco, United States
-          date_start: '2022-06-01'
-          date_end: '2022-08-01'
-          description: Explored unknown problem space of incorporating external fashion trends into our historical-data-based forecasting models
+          date_start: '2022-01-01'
+          date_end: '2022-01-01'
+          description: Explored integration of incorporating external fashion trends (NLP task) into our historical-data-based forecasting models
+          
         - title: Senior Tax Consultant, Tax Staff
           company: EY
           company_url: ''
           company_logo: org-ey
           location: San Francisco, United States
           date_start: '2017-01-01'
-          date_end: '2021-04-01'
-          description: Managed teams of 5-10 members and juggled multiple projects simultaneously to conduct research tax credit studies for clients in the financial and technical sectors
+          date_end: '2021-01-01'
+          description: Led data-driven R&D tax credit analyses using large client datasets across financial and technology sectors
+          
         - title: Teaching Assistant
           company: UCLA
           company_url: ''
           company_logo: org-ucla
           location: Los Angeles, United States
-          date_start: '2014-09-01'
-          date_end: '2016-06-01'
-          description: Held weekly office hours and proctored/graded exams for three Taxation and Business Law classes during the school years 
+          date_start: '2014-01-01'
+          date_end: '2016-01-01'
+          description: Assisted teaching in taxation and business law courses, leading office hours and grading exams and assignments
     design:
       columns: '2'
   # - block: accomplishments
