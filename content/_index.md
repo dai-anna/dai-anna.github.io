@@ -20,11 +20,9 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
-    date_format: '2006'
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      # Date format for experience (Go reference time: 2006=year, Jan=month, 02=day)
       date_format: '2006'
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
@@ -84,7 +82,6 @@ sections:
           description: Assisted teaching in taxation and business law courses, leading office hours and grading exams and assignments
     design:
       columns: '2'
-      date_format: '2006'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -268,10 +265,10 @@ sections:
           icon_pack: fab
           name: /dai-anna
           link: 'https://www.linkedin.com/in/dai-anna/'
-        - icon: twitter
+        - icon: x-twitter
           icon_pack: fab
           name: '@annauppp'
-          link: 'https://twitter.com/annauppp'
+          link: 'https://x.com/annauppp'
         - icon: instagram
           icon_pack: fab
           name: '@annauppp'

@@ -17,10 +17,10 @@ author_notes:
   - 'Equal contribution'
 
 date: '2024-03-22'
-doi: ''
+doi: '10.18653/v1/2024.nlp4hr-1.4'
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01'
+publishDate: '2024-01-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

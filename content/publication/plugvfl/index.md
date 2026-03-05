@@ -16,20 +16,20 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: '2023-03-28'
-doi: ''
+date: '2024-12-15'
+doi: '10.1109/BigData62323.2024.10825534'
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01'
+publishDate: '2024-01-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-workshop']
+# publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "*preprint*"
+publication: 2024 IEEE International Conference on Big Data
+publication_short: IEEE BigData 2024
 
 abstract: Vertical federated learning (VFL) enables a service provider (i.e., active party) who owns labeled features to collaborate with passive parties who possess auxiliary features to improve model performance. Existing VFL approaches, however, have two major vulnerabilities when passive parties unexpectedly quit in the deployment phase of VFL - severe performance degradation and intellectual property (IP) leakage of the active party's labels. In this paper, we propose Party-wise Dropout to improve the VFL model's robustness against the unexpected exit of passive parties and a defense method called DIMIP to protect the active party's IP in the deployment phase. We evaluate our proposed methods on multiple datasets against different inference attacks. The results show that Party-wise Dropout effectively maintains model performance after the passive party quits, and DIMIP successfully disguises label information from the passive party's feature extractor, thereby mitigating IP leakage.
 
@@ -42,11 +42,11 @@ tags: [Vertical Federated Learning, Robustness, Intellectual Property Protection
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Preprint
-  url: https://arxiv.org/abs/2303.18178
+# links:
+# - name: Preprint
+#   url: https://arxiv.org/abs/2303.18178
 
-# url_pdf: 'https://arxiv.org/pdf/2303.18178.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10825534'
 url_code: ''
 url_dataset: ''
 url_poster: ''
